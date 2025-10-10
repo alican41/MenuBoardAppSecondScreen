@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1012449007251",
+    "project_id": "clovercafeapp",
+    "storage_bucket": "clovercafeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012449007251:android:6261a3cc432fa7d3dadf66",
+        "android_client_info": {
+          "package_name": "com.example.clovercafeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM70qE4IppD6d33aLmwf3jbmKi5tdQK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012449007251:android:4354360956c06e59dadf66",
+        "android_client_info": {
+          "package_name": "com.example.menuboardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM70qE4IppD6d33aLmwf3jbmKi5tdQK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012449007251:android:eb9531ff04aeec91dadf66",
+        "android_client_info": {
+          "package_name": "com.example.menuboardapptwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM70qE4IppD6d33aLmwf3jbmKi5tdQK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
